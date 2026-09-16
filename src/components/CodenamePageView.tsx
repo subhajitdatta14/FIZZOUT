@@ -139,8 +139,8 @@ export const CodenamePageView: React.FC<CodenamePageViewProps> = ({
               letterSpacing: '0.06em',
             }}
           >
-            <span className="text-white">CODE</span>
-            <span className="text-[#FA5A00]">NAME</span>
+            <span className="text-white">FIZZ</span>
+            <span className="text-[#FA5A00]">OUT</span>
           </h1>
         </div>
 
